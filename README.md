@@ -1,7 +1,7 @@
 # Continuous Delivery with Jenkins on Kubernetes Engine (GSP051)
 
 ## Overview
-This project demo's goal is to deploy a **scalable Jenkins environment** on **Google Kubernetes Engine (GKE)**.  
+This demo's goal is to deploy a **scalable Jenkins environment** on **Google Kubernetes Engine (GKE)**.  
 It uses Kubernetes for orchestration, Compute Engine persistent disks for Jenkins data, and a Google Cloud HTTP(S) Load Balancer for external access.  
 
 ---
