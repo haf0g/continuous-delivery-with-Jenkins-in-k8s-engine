@@ -8,7 +8,7 @@ It uses Kubernetes for orchestration, Compute Engine persistent disks for Jenkin
 
 ## Architecture
 
-<img width="1200"  alt="image" src="https://github.com/user-attachments/assets/e550e11b-b8b5-4ad5-9313-5e4f91c8464c" />
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/e550e11b-b8b5-4ad5-9313-5e4f91c8464c" />
 
 ### Components
 
