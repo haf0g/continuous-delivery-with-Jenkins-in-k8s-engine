@@ -55,4 +55,4 @@ It uses Kubernetes for orchestration, Compute Engine persistent disks for Jenkin
 
 - Add CI/CD pipelines that build and deploy containerized applications on GKE.
 - Configure Jenkins pipelines to trigger automatically via GitHub or Cloud Build.
-- Explore Jenkins plugins for advanced DevOps workflows.
+- Explore Jenkins plugins for advanced DevOps workflows
